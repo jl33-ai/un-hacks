@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "it only takes an extra 10% to be better than the 90%"
-date:   2021-01-01 23:11:11 +1100
+date:   2022-01-01 23:11:11 +1100
 categories: hacks
 avatar : ☬
 author : adiShakti

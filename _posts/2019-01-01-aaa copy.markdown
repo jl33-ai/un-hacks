@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Speak only when you're asked a question"
-date:   2017-01-01 23:11:11 +1100
+date:   2023-01-01 23:11:11 +1100
 categories: hacks
 avatar : ☬ 
 author : adiShakti

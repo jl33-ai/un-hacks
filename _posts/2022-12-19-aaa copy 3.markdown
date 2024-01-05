@@ -1,8 +1,10 @@
 ---
 layout: post
 title:  "your parents are literally just other human beings"
-date:   2020-01-01 23:21:11 +1100
+date:   2023-01-01 23:21:11 +1100
 categories: jekyll update
 author : jl33_ai
 avatar : ♍︎
 ---
+
+- The author has not provided any additional information or sources. 
