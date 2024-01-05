@@ -5,11 +5,8 @@
 layout: home
 ---
 
-**A repository of unethical life hacks** 
+**A joint archive of unethical life hacks** 
 
+by: [♍︎ jl33_ai, ♕ moomoocow33, 𝝙 rwmj, ♞ Dave_Der, 🁙 mooreds_13, ☻ anonymous x2] 
 
-Contributors
-
-[♍︎ jl33.ai, ♕ dudzcatz, 𝝙 xxreason7, 𝛷, , ♞, 🁙] 
-
-
+---
