@@ -12,18 +12,20 @@ permalink: /contribute/
   action="https://formspree.io/f/xjvnvpka"
   method="POST"
 >
+  <label>1. First, please read the <a href="{% link about.md %}">about page</a>.</label>
+  <br><br>
   <label>
-    1. your email <i>(optional; leave blank to be anonymous):</i><br>
+    2. your email <i>(optional; leave blank to be anonymous):</i><br>
     <input type="email" name="email">
   </label>
   <br><br>
   <label>
-    2. your message <i>(anything xenophobic/racist/sexist/wrong will not be tolerated):</i><br>
+    3. your message <i>(anything xenophobic/racist/sexist/wrong will not be tolerated):</i><br>
     <textarea name="message"></textarea>
   </label>
   <br><br>
   <label>
-    3. your ascii avatar ♧ <i>(optional):</i><br>
+    4. your ascii avatar ♧ <i>(optional):</i><br>
     <textarea name="avatar"></textarea>
   </label>
   <br><br>

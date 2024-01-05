@@ -2,7 +2,7 @@
 <header>
   <div class="menu">
     <ul>
-      <li><a href="{{ '/' | relative_url }}">/home</a></li> <!-- Added link to the home page -->
+      <li><a href="{{ '/' | relative_url }}">//</a></li> <!-- Added link to the home page -->
       {%- for path in page_paths -%}
         {%- assign my_page = site.pages | where: "path", path | first -%}
         {%- if my_page.title -%}

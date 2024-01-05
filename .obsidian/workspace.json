@@ -140,14 +140,17 @@
   },
   "active": "a994e7667b324bf8",
   "lastOpenFiles": [
+    "_site/favicon.ico",
+    "favicon.ico",
+    "_layouts/assets",
+    "_layouts/favicon.ico",
+    "_layouts/default.html",
+    "_site/hacks/2017/01/01/sayless.html",
+    "about.md",
+    "_posts/2019-01-01-sayless.markdown",
     "_site/hacks/2019/01/01/aaa-copy-9.html",
     "_posts/2019-01-01-aaa copy 9.markdown",
     "_site/hacks/2019/01/01/aaa-copy-7.html",
-    "_site/hacks/2021/01/01/aaa-copy-8.html",
-    "_posts/2019-01-01-aaa copy 8.markdown",
-    "_site/hacks/2022/01/01/aaa-copy-7.html",
-    "_posts/2019-01-01-aaa copy 7.markdown",
-    "_site/hacks/2022/01/04/aaa.html",
-    "_site/hacks/2022/01/04"
+    "_site/hacks/2021/01/01/aaa-copy-8.html"
   ]
 }
