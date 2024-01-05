@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "use airplane mode to hang up on people."
+date:   2019-01-01 23:11:11 +1100
+categories: hacks
+avatar : ⚑
+author : anon
+---
+
+- If you're stuck on an annoying call, put your phone on airplane mode instead of just hanging up. The other person will see "call failed" instead of "call ended"

@@ -1,0 +1,19 @@
+---
+layout: default
+---
+
+<article class="life-hack-post">
+  <blockquote>
+    <em><strong>{{ page.title }}</strong></em>
+  </blockquote>
+
+  <div class="content">
+    {{ content }}
+  </div>
+
+  <footer>
+    <p>
+      Submitted by: <em> {{ page.author }} {{ page.avatar }} </em> in <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%Y" }}</time>
+    </p>
+  </footer>
+</article>

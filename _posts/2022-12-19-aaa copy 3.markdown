@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "your parents are literally just other human beings"
+date:   2020-01-01 23:21:11 +1100
+categories: jekyll update
+author : jl33_ai
+avatar : ♍︎
+---

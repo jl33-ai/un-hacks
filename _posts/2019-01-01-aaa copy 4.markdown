@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Live less in the present"
+date:   2023-01-01 23:11:11 +1100
+categories: hacks
+avatar : 𝝙
+author : rwmj
+---
+
+-  It makes you extremely vulnerable when things go bad. 
+- When they do: consider that in a year, a month, even in a weeks time, you are probably okay and not even thinking about whats currently bothering you
+- leverage this realization
+- ignore the present

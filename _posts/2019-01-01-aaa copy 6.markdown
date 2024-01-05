@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "regret minimization framework"
+date:   2015-01-01 23:11:11 +1100
+categories: hacks
+avatar : ☬ 
+author : adiShakti
+---
+
+- Originally from Jeff Bezos
+- [\[video\]](https://www.youtube.com/watch?v=-qPii5ACVYw)
+- [\[article\]](https://alyjuma.medium.com/the-regret-minimization-framework-how-jeff-bezos-made-decisions-4d5a86deaf24)

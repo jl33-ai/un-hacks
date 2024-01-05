@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "cancel your subscription and select 'too expensive'."
+date:   2019-01-01 23:11:11 +1100
+categories: hacks
+avatar : ⚑
+author : anon
+---
+
+- sometimes they will offer to lower your subcription price instead of cancelling. 
