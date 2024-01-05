@@ -7,9 +7,9 @@ permalink: /about/
 # what are unethical life hacks? 
 
 
-there are two kinds:
-1. More niche and trivial, exploiting some funny aspect of the modern world or are morally ambiguous. 
-2. The type with the ability to make weighted contributinos to your life  that are too blunt and confrontational to be ever preached aloud, but are important to at least read about.
+unethical life hacks serve 2 purposes: 
+1. entertainment
+2. the passing down of wisdom, the democratization of wisdom. modern day cheat-codes with the ability to make weighted contributinos to your life. 
 
 
 <br>
