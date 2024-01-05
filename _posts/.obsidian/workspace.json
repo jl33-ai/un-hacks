@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b77622046e41c1b8",
+        "id": "f2608e74ba51a0ea",
         "type": "tabs",
         "children": [
           {
-            "id": "509fa7c7129a2668",
+            "id": "2beac0320d98da89",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -138,7 +138,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2411874d87416290",
+  "active": "2beac0320d98da89",
   "lastOpenFiles": [
     "2019-01-01-sayless.markdown",
     "2019-01-01-aaa copy 9.markdown",

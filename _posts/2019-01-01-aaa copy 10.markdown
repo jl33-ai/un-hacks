@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "No matter what someone says, it is what they do in the end that they intended all along."
+date:   2023-01-01 23:11:11 +1100
+categories: hacks
+avatar : ☬
+author : adiShakti
+---
+
+- Teddy Atlas
