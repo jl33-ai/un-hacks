@@ -39,7 +39,7 @@ header_pages:
 
 style: dark # dark (default), light or hacker
 
-footer: '*things no one is brave enought to teach you | email: <a href="un.lifehacks@dr.com">un.lifehacks@dr.com</a>'
+footer: 'email: <a href="un.lifehacks@dr.com">un.lifehacks@dr.com</a> | contributors: 8'
 
 # Exclude from processing.
 # The following items will not be processed, by default.
