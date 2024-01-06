@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "When times are good, that is when you must be on maximum alert."
+title:  "learn to be on maximum alert when things are going right - it's finite."
 date:   2022-01-01 23:11:11 +1100
 categories: hacks
 avatar : ☬
